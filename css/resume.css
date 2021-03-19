@@ -159,6 +159,7 @@ a:hover {
 }
 
 
+
 h1  {
 	width:350px;
 	font-size:42px;
@@ -190,6 +191,21 @@ h2 {
 p {
 	width:500px;
 	margin-left:40px;
+	float:right;	
+}
+
+.entry2 {
+	width:720px;
+	display: block;
+	padding-top:55px;
+	clear: both;
+	margin-left:4px;
+	line-height: 17px;
+}
+
+.entry2 .se {
+	width:500px;
+	margin-left:90px;
 	float:right;	
 }
 
